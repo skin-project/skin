@@ -7,7 +7,7 @@ Today, agents primarily access information through mechanisms designed to retrie
 
 Skin explores a complementary publication model in which individuals and organizations publish structured semantic information directly for AI agents. Rather than defining how information should be presented, publishers maintain the facts they wish to make available, while consuming agents determine how to interpret and communicate them.
 
-The proposal combines publisher-controlled profiles, atomic semantic facts, a minimal shared schema, and direct retrieval. Its objective is not to replace websites or existing retrieval technologies, but to examine what becomes possible when information can be published for intelligent agents without first being organized into a human-facing interface.
+The proposal combines publisher-controlled profiles, atomic semantic facts, a shared schema, and direct retrieval. Its objective is not to replace websites or existing retrieval technologies, but to examine what becomes possible when information can be published for intelligent agents without first being organized into a human-facing interface.
 
 ## From websites to information sources
 
@@ -173,7 +173,7 @@ These technologies can support rich semantic representations and may be useful w
 
 The distinction lies in the proposed combination of a publication model and an interpretation model.
 
-First, the structured information is the publication itself, not necessarily an annotation of a human-facing resource. Second, the shared schema is intentionally small, leaving many semantic values to be interpreted by language models rather than defined through an extensive ontology. Third, the information is maintained directly by its authorized publisher and made available through a dedicated retrieval interface.
+First, the structured information is the publication itself, not necessarily an annotation of a human-facing resource. Second, the shared schema is intentionally leaving many semantic values to be interpreted by language models rather than defined through an extensive ontology. Third, the information is maintained directly by its authorized publisher and made available through a dedicated retrieval interface.
 
 This choice sacrifices some of the determinism offered by more formally defined vocabularies in exchange for a simpler authoring model and greater flexibility across domains.
 
@@ -199,7 +199,7 @@ This separation is what allows information to remain useful beyond any particula
 
 Skin is an architectural proposal, not an established standard, and several questions remain open.
 
-A minimal semantic schema must be expressive enough to represent complex information without becoming an exhaustive ontology. Qualifications, relationships, and contextual dependencies need to survive interpretation, while different language models may produce different results from the same facts.
+A semantic schema must be expressive enough to represent complex information without becoming an exhaustive ontology. Qualifications, relationships, and contextual dependencies need to survive interpretation, while different language models may produce different results from the same facts.
 
 Ownership verification prevents unauthorized publication under another entity's identity, but it does not establish factual truth. Publishers remain responsible for the information they provide, and agents may still need to compare it with independent sources.
 
