@@ -1,5 +1,5 @@
 **Position paper**
-# Skin: Publishing for AI Agents
+# Skin: Publishing for AI agents
 
 The web was built around a simple assumption: information is published in a form that people can navigate and read. Websites combine information with its presentation through pages, navigation structures, and language-specific content. AI agents introduce a different kind of consumer, capable of interpreting semantic information and generating responses adapted to individual questions.
 
