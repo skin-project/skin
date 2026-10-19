@@ -227,6 +227,6 @@ Skin is an exploration of what becomes possible when that constraint is removed.
 
 ---
 
-**Author:** Raphaël Del Blanco  
+**Author:** Raphael Del Blanco  
 **Published:** October 2026<br><br>
 https://profiles.skin
