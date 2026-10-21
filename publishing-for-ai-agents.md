@@ -227,6 +227,13 @@ Skin is an exploration of what becomes possible when that constraint is removed.
 
 ---
 
+---
+
+**Feedback and discussion**<br>
+Questions, criticism, and alternative approaches are welcome in [GitHub Discussions](https://github.com/skindotorg/foundation/discussions/1).
+
+---
+
 **Author:** Raphael Del Blanco  
 **Published:** October 2026<br><br>
 https://profiles.skin
